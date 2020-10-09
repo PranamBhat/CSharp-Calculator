@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+E:\Pranam\Git Repository Projects\CSharp-Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
